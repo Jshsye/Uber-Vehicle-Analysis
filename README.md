@@ -1,5 +1,9 @@
 # Uber-Vehicle-Analysis
 🚖 Uber Data Analysis Dashboard | Data-Driven Insights using Power BI
+
+### 🔗 Dashboard Link
+[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjk2MzdiN2QtNjBlYy00ZmJiLWFjNTYtMmRlYWQ2OGVmNzQ3IiwidCI6ImEyNGY0OWI3LTM3YjEtNGVmZi1iMmZiLTA5OTI5M2E0ZDBjZSJ9)
+
 1. Introduction
 Hello everyone, today I will walk you through the Uber performance analysis for July 2024.
 This dashboard covers overall performance, vehicle type insights, revenue patterns, cancellations, and ratings.
@@ -96,6 +100,3 @@ To summarize:
 	• Ratings are stable, but Bike services need attention.
 With better driver policies, improved customer experience, and promotion of digital + sustainable options, Uber can significantly improve efficiency and customer satisfaction.
 
-
-### 🔗 Dashboard Link
-[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjk2MzdiN2QtNjBlYy00ZmJiLWFjNTYtMmRlYWQ2OGVmNzQ3IiwidCI6ImEyNGY0OWI3LTM3YjEtNGVmZi1iMmZiLTA5OTI5M2E0ZDBjZSJ9)
