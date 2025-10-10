@@ -5,6 +5,7 @@
 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjk2MzdiN2QtNjBlYy00ZmJiLWFjNTYtMmRlYWQ2OGVmNzQ3IiwidCI6ImEyNGY0OWI3LTM3YjEtNGVmZi1iMmZiLTA5OTI5M2E0ZDBjZSJ9)
 
 1. Introduction
+
 Hello everyone, today I will walk you through the Uber performance analysis for July 2024.
 This dashboard covers overall performance, vehicle type insights, revenue patterns, cancellations, and ratings.
 The goal is to identify strengths, weaknesses, and opportunities for improvement.
