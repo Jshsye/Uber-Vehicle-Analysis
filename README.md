@@ -95,3 +95,7 @@ To summarize:
 	• Cancellation rate (28%) is the biggest area for improvement.
 	• Ratings are stable, but Bike services need attention.
 With better driver policies, improved customer experience, and promotion of digital + sustainable options, Uber can significantly improve efficiency and customer satisfaction.
+
+
+### 🔗 Dashboard Link
+[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjk2MzdiN2QtNjBlYy00ZmJiLWFjNTYtMmRlYWQ2OGVmNzQ3IiwidCI6ImEyNGY0OWI3LTM3YjEtNGVmZi1iMmZiLTA5OTI5M2E0ZDBjZSJ9)
